@@ -1,0 +1,1 @@
+# If this is pushed onto my Github Profile, That means i am using git as intended! 
